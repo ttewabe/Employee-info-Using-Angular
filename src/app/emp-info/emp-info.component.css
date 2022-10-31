@@ -1,0 +1,9 @@
+button{
+display:block;
+margin: 20px auto;  
+}
+list-group-item{
+    display:block;
+    margin: 20px auto;
+    align-items: center;
+}
